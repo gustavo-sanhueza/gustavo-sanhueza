@@ -36,10 +36,6 @@ Desarrollador Python/Django en aprendizaje continuo. Vengo del sector de **cone
 
 ## 3. Proyectos Destacados
 
-## 🗂️ Mis Proyectos
-
-## 🗂️ Mis Proyectos
-
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [💳 AlkeWallet](https://github.com/gustavo-sanhueza/alke_wallet) | Billetera virtual con base de datos relacional | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
