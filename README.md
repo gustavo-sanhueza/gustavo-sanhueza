@@ -1,7 +1,7 @@
 # ¡Hola! Soy Gustavo Sanhueza. 👋
 
-## 1. Presentación Clara
-Hola, soy Gustavo, Desarrollador Full Stack en formación (Python/Django) con una base sólida como **Ingeniero en Conectividad y Redes**. Mi enfoque es unir la lógica del software con la estabilidad de la infraestructura.
+## 1. Saludos...
+Desarrollador Python/Django en aprendizaje continuo. Vengo del sector de **conectividad y redes**, lo que me da una perspectiva integral sobre cómo el software interactúa con la infraestructura y los sistemas
 
 ---
 
@@ -36,20 +36,18 @@ Hola, soy Gustavo, Desarrollador Full Stack en formación (Python/Django) con un
 
 ## 3. Proyectos Destacados
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/PROYECTO-BIBLIOTECA-blueviolet?style=for-the-badge&logo=python" /><br>
-      <b>Sistema de Gestión de Biblioteca</b><br>
-      Administración de libros y préstamos usando Django ORM y vistas dinámicas.
-    </td>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/PROYECTO-SOPORTE_EMPRESA-darkgreen?style=for-the-badge&logo=django" /><br>
-      <b>Plataforma Soporte Empresa</b><br>
-      Gestión de tickets y soporte técnico integrando bases de datos PostgreSQL.
-    </td>
-  </tr>
-</table>
+## 🗂️ Mis Proyectos
+
+## 🗂️ Mis Proyectos
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| [💳 AlkeWallet](https://github.com/gustavo-sanhueza/alke_wallet) | Billetera virtual con base de datos relacional | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
+| [⚙️ Gestor de Tareas](https://github.com/gustavo-sanhueza/gestor) | Gestión de tareas con interfaz dinámica | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| [🎮 Club de Juegos VJ](https://github.com/gustavo-sanhueza/Club-de-juegos-VJ.) | Plataforma web de club de videojuegos | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| [📚 Biblioteca](https://github.com/gustavo-sanhueza/Biblioteca_) | Gestión de préstamos con Django ORM | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white) |
+| [🎫 Soporte Empresa](https://github.com/gustavo-sanhueza/soporte_empresa) | Gestión de tickets con PostgreSQL | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
+
 
 ---
 
